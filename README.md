@@ -8,13 +8,13 @@ A FastAPI-based Library Management System with support for books, authors, genre
 
 ```bash
 git clone https://github.com/Kalinka5/dbb-book-management.git
-cd library-management-api
+cd dbb-book-management
 ```
 
 2. Create and activate virtual environment:
 
 ```bash
-python -m venv .venv
+python3 -m venv .venv
 source .venv/bin/activate  # Linux/Mac
 # or
 .venv\Scripts\activate  # Windows
